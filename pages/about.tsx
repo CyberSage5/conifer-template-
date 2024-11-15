@@ -32,38 +32,30 @@ const About: NextPage = () => {
                 <div className="mt-24 max-w-xl px-8">
                     <h2 className="font-medium text-gray-600 mb-2">Who am I?</h2>
                     <p className="text-xl">
-                        Nulla non sit laboris voluptate amet consectetur.
-                        Lorem consequat officia eiusmod amet et aliquip dolore.
-                        Non laboris reprehenderit esse mollit deserunt nostrud laborum eiusmod duis aute deserunt.
-                        Veniam occaecat in ea amet enim qui nostrud commodo ut exercitation nulla reprehenderit velit consequat dolore.
-                        Officia ad officia Lorem aliquip quis irure nulla consequat adipisicing mollit. Ad anim esse ad anim incididunt aute aliqua occaecat aute et velit. Lorem cillum amet exercitation in. Et dolor occaecat incididunt sint nostrud dolor.
+                        I am Terfa John software Engineer  FE(heavy) who has a nack for creativity through tech innovation  with major intrest in AI technology  with my skills as a software engineer i am horning my skill sets towards building user-centric software products to make the revolutionization of tech available to everyone
                     </p>
                     <h2 className="font-medium text-gray-600 mb-2 mt-8">My career</h2>
                     <p className="text-xl">
-                        Nulla non sit laboris voluptate amet consectetur.
-                        Lorem consequat officia eiusmod amet et aliquip dolore.
-                        Non laboris reprehenderit esse mollit deserunt nostrud laborum eiusmod duis aute deserunt.
-                        Veniam occaecat in ea amet enim qui nostrud commodo ut exercitation nulla reprehenderit velit consequat dolore.
-                        Officia ad officia Lorem aliquip quis irure nulla consequat adipisicing mollit. Ad anim esse ad anim incididunt aute aliqua occaecat aute et velit. Lorem cillum amet exercitation in. Et dolor occaecat incididunt sint nostrud dolor.
+                       As  Software engineer  my career path ranges from working in diffrent aspect of tech including ed-tech, food-tech, health-tech, and fin-tech i am constantly working towards advancing and exploring into AI-tech 
                     </p>
                     <h2 className="font-medium text-gray-600 mb-2 mt-8">Contact</h2>
                     <Card
                         name="Mail"
-                        link="mailto:hi@tobyb.dev"
+                        link="mailto:terfajohn45@gmail.com"
                         description="Shoot me an email!"
                         button="Compose"
                         icon="/icons/at-sign.svg"
                     />
                     <Card
                         name="Twitter"
-                        link="https://twitter.com/developedbytoby"
+                        link="https://twitter.com/terfajohn97"
                         description="Send me a DM on Twitter."
                         button="DM"
                         icon="/icons/twitter.svg"
                     />
                     <Card
                         name="Book a time"
-                        link="https://cal.com/developedbytoby"
+                        link="https://cal.com/terfajohn"
                         description="Want a longer chat? Book a time"
                         button="Book"
                         icon="/icons/calendar.svg"

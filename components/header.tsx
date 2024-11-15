@@ -32,26 +32,26 @@ export default function Header() {
     return (
         <div className="m-8 flex text-xl justify-center">
             <p className="fixed mx-8 left-0">
-                Conifer template
+               KAYTAY :)
             </p>
             <div className="fixed space-x-8 bottom-0 m-8 md:top-0">
-                <Item href="/" text="Home"/>
-                <Item href="/about" text="About"/>
-                <Item href="/projects" text="Projects"/>
-            </div>
+    <Item href="/" text="Home"/>
+    <Item href="/about" text="About"/>
+    <Item href="/projects" text="Projects"/>
+</div>
             <div className="fixed right-0 mx-8 flex gap-4">
                 <Social
-                    href="mailto:hi@tobyb.dev"
+                    href="mailto:terfajohn45gmail.com"
                     image={mail}
                     alt="Mail icon"
                 />
                 <Social
-                    href="https://github.com/developedbytoby"
+                    href="https://github.com/CyberSage5"
                     image={github}
                     alt="GitHub icon"
                 />
                 <Social
-                    href="https://twitter.com/developedbytoby"
+                    href="https://twitter.com/terfajohn97"
                     image={twitter}
                     alt="Twitter icon"
                 />

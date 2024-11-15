@@ -31,19 +31,19 @@ const Projects: NextPage = () => {
                 <h1 className="text-4xl font-semibold">Projects</h1>
                 <div className="mt-24 max-w-xl px-8">
                     <Card
-                        name="Project one"
-                        description="This is the first of three projects!"
-                        link="#"
+                        name="Clear-off"
+                        description="an online p2p marketplace for easy de-cluttering!"
+                        link="https://github.com/CyberSage5/Clearoff"
                     />
                     <Card
-                        name="Project two"
-                        description="This is the second of three projects!"
-                        link="#"
+                        name="Portal"
+                        description="An online learning and research resource platform!"
+                        link="https://github.com/CyberSage5/Portal"
                     />
                     <Card
-                        name="Project three"
-                        description="This is the final project!"
-                        link="#"
+                        name="Dashboard"
+                        description="a dashboard build with nextjs!"
+                        link="https://github.com/CyberSage5/nextjs-dashboard-v2"
                     />
                 </div>
             </div>
